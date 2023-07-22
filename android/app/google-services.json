@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075543974221",
+    "project_id": "reminder-31a42",
+    "storage_bucket": "reminder-31a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075543974221:android:46dca1277a1ba3bec79704",
+        "android_client_info": {
+          "package_name": "com.example.dailynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075543974221-cfe1j8ssplnbf7lvbm9nlutifb9d8e9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ6t0C3QmCbYkbTmd3uO0A5TFaftBvgBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075543974221-cfe1j8ssplnbf7lvbm9nlutifb9d8e9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
